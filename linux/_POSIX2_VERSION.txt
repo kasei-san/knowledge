@@ -1,0 +1,7 @@
+GNU Core Utilities is incompatibilities with the POSIX standard.
+If you want the POSIX standard's behavior on GNU,
+Use _POSIX2_VERSION environment variable.
+https://www.gnu.org/software/coreutils/manual/html_node/Standards-conformance.html
+
+Ex.
+_POSIX2_VERSION=199209 tail +10 ./01.txt
