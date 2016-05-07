@@ -1,0 +1,2 @@
+$ brew install p7zip
+$ 7z x large_size_file_name
