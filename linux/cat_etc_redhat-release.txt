@@ -1,0 +1,2 @@
+# Check RedHat/CentOS version
+cat /etc/redhat-release
