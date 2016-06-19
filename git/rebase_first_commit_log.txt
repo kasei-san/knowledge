@@ -1,0 +1,4 @@
+git rebase -i --root
+
+#change first commit message
+# see: http://qiita.com/dataich/items/35148bd8bd6a5b707282
